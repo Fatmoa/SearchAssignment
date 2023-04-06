@@ -1,0 +1,35 @@
+.links{
+    text-align: right;
+  
+}
+.google-sc{
+    text-align: center;
+    font-size: 70px;
+    font-display: 20%;
+    padding: 70px;
+}
+.search-bar{
+    display: flex;
+    justify-content: center;
+}
+input{
+    width: 40%;
+    padding: 6px;
+    text-align: center;
+    border-style: 1px solid;
+    border-radius: 10px;
+}
+.submit{
+    display: flex;
+    justify-content: center;
+    padding: 19px;
+}
+button{
+    padding: 10px;
+    border-radius: 8px;
+    border-color: blue; 
+}
+button:hover{
+    color: white;
+    background-color: blue;
+}
